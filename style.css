@@ -23,10 +23,11 @@ body{
 }
 
 input{
-  margin: 85px 8px 24px 151px;
-  width: 400px;
-  height: 60px;
-  font-size: 30px;
+  margin: 26px 8px 24px 151px;
+    width: 400px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
    
 }
 
@@ -39,13 +40,14 @@ input{
     
 }
 p{
-  margin: 28px 59px 56px 114px;
-  font-size: 40px;
+  margin: 19px 59px 56px 89px;
+    font-size: 40px;
     
 }
 
 tr{
   color: white;
+  
 }
 
 .container{
@@ -72,8 +74,39 @@ button{
 
 #botão2{
   cursor: pointer;
-  width: 60px;
-  height: 50px;
-  font-size: 60px;
-  margin: -132px 150px 15px 147px;
+    width: 60px;
+    height: 50px;
+    font-size: 60px;
+    margin: -124px 150px 15px 100px;
+}
+
+#p{
+  width: 40px;
+  height: 40px;
+  margin: -18px 86px 50px -3px;
+}
+
+#p2{
+  border-radius: 5px;
+    width: 40px;
+    margin: -8px 50px 67px -2px;
+    height: 40px;
+}
+
+.table{
+  width: 718px;
+  height: 400px;
+  margin: 50px auto auto 7px;
+  font-size: 30px;
+}
+
+th{
+  width: 33%;
+}
+
+#p3{
+  margin: -53px 59px 30px -10px;
+  font-size: 80px;
+  text-align: center;
+  color: white;
 }
