@@ -22,7 +22,7 @@ function salvar() {
     }
     if (contador == 1) {
 
-        vet[guardinha].nome = idade
+        vet[guardinha].nome = nome
         vet[guardinha].idade = idade
         mostrar()
         contador = 0
