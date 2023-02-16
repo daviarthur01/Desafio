@@ -1,0 +1,79 @@
+.input{
+  background-color: #00000029;
+  width: 718px;
+  margin: auto;
+  height: 400px;
+}
+
+
+
+.image{
+  
+}
+
+h1{
+  font-size: 80px;
+  color: white;
+  margin-top: 400px;
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(270deg,red,blue);
+}
+
+input{
+  margin: 85px 8px 24px 151px;
+  width: 400px;
+  height: 60px;
+  font-size: 30px;
+   
+}
+
+.table{
+  caption-side: bottom;
+  border-collapse: collapse;
+  background-color: #0000002b;
+  width: 20px;
+    
+    
+}
+p{
+  margin: 28px 59px 56px 114px;
+  font-size: 40px;
+    
+}
+
+tr{
+  color: white;
+}
+
+.container{
+  max-width: 720px;
+  margin: 41px 45px 38px 104px;
+}
+
+button{
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+  font-size: 60px;
+  margin: 4px 154px 15px 296px;
+
+}
+
+#botão1{
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+  font-size: 60px;
+  margin: 4px 150px 15px 30px;
+}
+
+#botão2{
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+  font-size: 60px;
+  margin: -132px 150px 15px 147px;
+}
